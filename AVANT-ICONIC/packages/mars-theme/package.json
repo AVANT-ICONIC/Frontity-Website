@@ -6,11 +6,11 @@
     "frontity",
     "frontity-theme"
   ],
-  "homepage": "https://frontity.org",
+  "homepage": "https://backend.avant-iconic.com",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/frontity/frontity.git"
+    "url": "https://github.com/AVANT-ICONIC/Frontity-Website.git"
   },
   "bugs": {
     "url": "https://community.frontity.org"

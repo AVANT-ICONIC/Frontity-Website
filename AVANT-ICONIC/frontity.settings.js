@@ -2,9 +2,9 @@ const settings = {
   "name": "avant-iconic",
   "state": {
     "frontity": {
-      "url": "https://test.frontity.org",
-      "title": "Test Frontity Blog",
-      "description": "WordPress installation for Frontity development"
+      "url": "https://backend.avant-iconic.com",
+      "title": "AVANT-ICONIC",
+      "description": "Multimedia Agency"
     }
   },
   "packages": [
@@ -14,24 +14,20 @@ const settings = {
         "theme": {
           "menu": [
             [
-              "Home",
-              "/"
+              "Blog",
+              "/blog"
             ],
             [
-              "Nature",
-              "/category/nature/"
+              "Shop",
+              "/shop"
             ],
             [
-              "Travel",
-              "/category/travel/"
+              "Kontakt",
+              "/kontakt"
             ],
             [
-              "Japan",
-              "/tag/japan/"
-            ],
-            [
-              "About Us",
-              "/about-us/"
+              "Warenkorb",
+              "/warenkorb"
             ]
           ],
           "featured": {
@@ -45,7 +41,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "url": "https://test.frontity.org"
+          "url": "https://backend.avant-iconic.com"
         }
       }
     },

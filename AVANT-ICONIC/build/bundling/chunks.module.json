@@ -1,0 +1,50 @@
+{
+  "errors": [],
+  "warnings": [],
+  "hash": "0f85f44e768140aa2b12",
+  "publicPath": "/static/",
+  "outputPath": "/Users/marc/Desktop/Frontity-Website/AVANT-ICONIC/build/static",
+  "assetsByChunkName": {
+    "avant-iconic": "avant-iconic.module.js",
+    "list": "list.module.js"
+  },
+  "assets": [],
+  "filteredAssets": 2,
+  "namedChunkGroups": {
+    "avant-iconic": {
+      "chunks": [
+        "avant-iconic"
+      ],
+      "assets": [
+        "avant-iconic.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "generator": "loadable-components",
+  "chunks": [
+    {
+      "id": "avant-iconic",
+      "files": [
+        "avant-iconic.module.js"
+      ]
+    },
+    {
+      "id": "list",
+      "files": [
+        "list.module.js"
+      ]
+    }
+  ]
+}
