@@ -1,22 +1,26 @@
 {
   "errors": [],
   "warnings": [],
-  "hash": "27d785ce5e68f52e1a9e",
+  "hash": "be36ac318335f456ff3c",
   "publicPath": "/static/",
   "outputPath": "/Users/marc/Desktop/Frontity-Website/AVANT-ICONIC/build/static",
   "assetsByChunkName": {
-    "avant-iconic": "avant-iconic.module.js",
+    "avant-iconic": [
+      "avant-iconic.module.js",
+      "avant-iconic.0020fdc6de8904e0e41c.hot-update.js"
+    ],
     "list": "list.module.js"
   },
   "assets": [],
-  "filteredAssets": 2,
+  "filteredAssets": 4,
   "namedChunkGroups": {
     "avant-iconic": {
       "chunks": [
         "avant-iconic"
       ],
       "assets": [
-        "avant-iconic.module.js"
+        "avant-iconic.module.js",
+        "avant-iconic.0020fdc6de8904e0e41c.hot-update.js"
       ],
       "children": {},
       "childAssets": {}
@@ -37,7 +41,8 @@
     {
       "id": "avant-iconic",
       "files": [
-        "avant-iconic.module.js"
+        "avant-iconic.module.js",
+        "avant-iconic.0020fdc6de8904e0e41c.hot-update.js"
       ]
     },
     {

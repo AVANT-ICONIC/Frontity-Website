@@ -58,13 +58,13 @@ const Post = ({ state, actions, libraries }) => {
             {author && (
               <StyledLink link={author.link}>
                 <Author>
-                  By <b>{author.name}</b>
+                  geschrieben vong <b>{author.name}</b>
                 </Author>
               </StyledLink>
             )}
             <DateWrapper>
               {" "}
-              on <b>{date.toDateString()}</b>
+              aaahm am <b>{date.toDateString()}</b>
             </DateWrapper>
           </div>
         )}

@@ -25,13 +25,13 @@ const Item = ({ state, item }) => {
         {author && (
           <StyledLink link={author.link}>
             <AuthorName>
-              By <b>{author.name}</b>
+              verfasst von: <b>{author.name}</b>
             </AuthorName>
           </StyledLink>
         )}
         <PublishDate>
           {" "}
-          on <b>{date.toDateString()}</b>
+          i glaub am <b>{date.toDateString()}</b>
         </PublishDate>
       </div>
 
