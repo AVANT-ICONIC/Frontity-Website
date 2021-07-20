@@ -29,10 +29,6 @@ const settings = {
               "Kontakt",
               "/kontakt"
             ],
-            [
-              "Warenkorb",
-              "/warenkorb"
-            ]
           ],
           "featured": {
             "showOnList": true,
