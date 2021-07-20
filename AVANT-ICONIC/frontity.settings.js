@@ -14,12 +14,16 @@ const settings = {
         "theme": {
           "menu": [
             [
-              "Blog",
-              "/blog"
+              "Home",
+              "/home"
             ],
             [
-              "Shop",
-              "/shop"
+              "Leistungen",
+              "/leistungen"
+            ],
+            [
+              "Blog",
+              "/blog"
             ],
             [
               "Kontakt",
@@ -31,8 +35,8 @@ const settings = {
             ]
           ],
           "featured": {
-            "showOnList": false,
-            "showOnPost": false
+            "showOnList": true,
+            "showOnPost": true
           }
         }
       }
